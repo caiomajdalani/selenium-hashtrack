@@ -1,0 +1,17 @@
+{
+    "name": "hashtrack",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "Caio Majdalani",
+    "license": "ISC",
+    "dependencies": {
+        "chromedriver": "^2.9.0",
+        "geckodriver": "^1.4.0",
+        "selenium-webdriver": "^3.3.0"
+    }
+}
